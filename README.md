@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋, I'm Esrom  
 
-<!--
-**tiriboy/tiriboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **aspiring Backend Developer** passionate about building reliable and secure systems with **Python, Django, SQL, and REST APIs**.  
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- API security & authentication (Token, JWT, OAuth2)  
+- Django REST Framework  
+- Backend best practices  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Interests
+- Backend development & system design  
+- API security & performance optimization  
+- Exploring DevOps and deployment tools  
+
+### 🚀 Goals
+- Contribute to real-world open source projects  
+- Build practical backend applications  
+- Continuously improve my coding and problem-solving skills  
+
+### 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/esrom-tadesse-389675331)  
+- [Email](mailto:tadesseesrom142@gmail.com)  
+
+---
+⭐️ *Always open to learning, collaboration, and new opportunities!*  
+
